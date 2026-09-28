@@ -1,0 +1,7 @@
+{
+  "name": "Smart Laundry",
+  "description": "Sistem kasir dan manajemen laundry modern dengan ringkasan harian, antrian pesanan, pembukuan kas, analisa omzet & pelanggan, serta master data tarif & pengiriman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+  ]
+}
